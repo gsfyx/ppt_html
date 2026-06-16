@@ -12,7 +12,6 @@ Five built-in visual themes, switchable with a single click across all slides:
 
 | Theme | CSS Class | Description |
 |-------|-----------|-------------|
-| Party Red | `theme-red` | Red color palette for political and government scenarios |
 | Tech Blue | `theme-blue` | Blue color palette for technology and enterprise scenarios |
 | Violet | `theme-purple` | Purple color palette for creative and artistic scenarios |
 | Minimal | `theme-minimal` | Clean, minimalist style for business and reporting scenarios |
