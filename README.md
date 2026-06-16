@@ -1,4 +1,4 @@
-# HTML 幻灯片编辑器 (`ppt_template.html`)
+# HTML 幻灯片编辑器
 
 ## 概述
 
